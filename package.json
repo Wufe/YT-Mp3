@@ -1,0 +1,9 @@
+{
+  "name": "YT-Mp3",
+  "description": "Youtube to MP3 downloader & converter",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wufe/YT-Mp3",
+  "repository": "git://github.com/wufe/YT-Mp3.git",
+  "author": "Wufe <wufe92@gmail.com> (http://wufe.it/)",
+  "main": "./index.js"
+}
