@@ -2,7 +2,7 @@
 
 ## Required libraries
 
-`sudo apt-get install ffmpeg libavcodec-*5*`
+`sudo apt-get install ffmpeg libavcodec*5*`
 
 ## LICENSE
 
